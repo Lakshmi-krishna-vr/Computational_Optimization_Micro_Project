@@ -1,0 +1,4 @@
+warehouse_id,latitude,longitude,capacity,construction_cost,operational_cost
+WH_NORTH,40.812,-73.962,5000,500000,200
+WH_SOUTH,40.803,-73.9645,4500,450000,180
+WH_EAST,40.809,-73.958,6000,600000,250
