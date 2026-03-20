@@ -1,0 +1,1 @@
+prob.solve(pulp.PULP_CBC_CMD(msg=0))
